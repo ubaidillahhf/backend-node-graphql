@@ -1,0 +1,18 @@
+{
+    "development": {
+        "username": "mydev",
+        "password": "v{zfJXF)A!v4",
+        "database": "stock_manager",
+        "host": "server.dreamcode.site",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    },
+    "production": {
+        "username": "user",
+        "password": "123",
+        "database": "erp_sales2",
+        "host": "10.8.0.8",
+        "dialect": "mysql",
+        "operatorsAliases": false
+      }
+}
